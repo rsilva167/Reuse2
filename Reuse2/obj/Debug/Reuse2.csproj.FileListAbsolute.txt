@@ -1,0 +1,8 @@
+C:\Windows\Temp\ws-vs2022\Reuse2\Reuse2\bin\Debug\Reuse2.exe.config
+C:\Windows\Temp\ws-vs2022\Reuse2\Reuse2\bin\Debug\Reuse2.exe
+C:\Windows\Temp\ws-vs2022\Reuse2\Reuse2\bin\Debug\Reuse2.pdb
+C:\Windows\Temp\ws-vs2022\Reuse2\Reuse2\obj\Debug\Reuse2.csproj.AssemblyReference.cache
+C:\Windows\Temp\ws-vs2022\Reuse2\Reuse2\obj\Debug\Reuse2.csproj.SuggestedBindingRedirects.cache
+C:\Windows\Temp\ws-vs2022\Reuse2\Reuse2\obj\Debug\Reuse2.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\ws-vs2022\Reuse2\Reuse2\obj\Debug\Reuse2.exe
+C:\Windows\Temp\ws-vs2022\Reuse2\Reuse2\obj\Debug\Reuse2.pdb
